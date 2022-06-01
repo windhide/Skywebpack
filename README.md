@@ -1,6 +1,7 @@
 # skywebpacknew
 
 > A Vue.js project
+> 这是2020年写的Vue2的项目，第一次写可能经验不太足 仅供参考
 
 ## Build Setup
 
